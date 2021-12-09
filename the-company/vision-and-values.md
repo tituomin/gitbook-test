@@ -18,7 +18,7 @@ This looks very nice.
 
 Way to go!
 
-
+I wonder how the git synchronization works. Here goes!
 
 ## Our Values
 
